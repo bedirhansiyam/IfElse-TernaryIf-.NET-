@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\bin\Debug\net7.0\IfElse-TernaryIf.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\bin\Debug\net7.0\IfElse-TernaryIf.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\bin\Debug\net7.0\IfElse-TernaryIf.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\bin\Debug\net7.0\IfElse-TernaryIf.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\bin\Debug\net7.0\IfElse-TernaryIf.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\refint\IfElse-TernaryIf.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\IfElse-TernaryIf.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\IfElse-TernaryIf\obj\Debug\net7.0\ref\IfElse-TernaryIf.dll
